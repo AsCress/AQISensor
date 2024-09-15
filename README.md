@@ -1,6 +1,15 @@
 # AQI Sensor Prototype Submission for Smart India Hackathon 2024 Internal Hackathon Round 2
 This project aims to build a technological solution for mobile AQI measurement.
 
+## Available Scripts
+
+In the project directory, you can run:
+
+### `./gradlew assembleDebug`
+
+Builds the app.
+The APK file can be located in app/build/outputs/apk.
+
 ## AQI Measurement
 ![ccs811](https://github.com/user-attachments/assets/caf9727b-aaf9-461e-8467-22a40513fb8f)
 
